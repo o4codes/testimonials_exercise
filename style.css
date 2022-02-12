@@ -38,7 +38,9 @@ main {
 
 .component_one {
     background-color: var(--moderate_violet);
-    background-image: ;
+    background-image: url("images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: top right 15%;
     color: var(--white);
     grid-column:  span 2;
 }
